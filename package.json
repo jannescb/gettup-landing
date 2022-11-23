@@ -21,7 +21,7 @@
         "tailwindcss": "^1.4.6"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.7",
+        "browser-sync": "^2.27.10",
         "browser-sync-webpack-plugin": "^2.0.1",
         "filename-regex": "^2.0.1",
         "mix-html-builder": "^0.6.1",
